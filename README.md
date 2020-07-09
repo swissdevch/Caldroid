@@ -1,3 +1,8 @@
+Swiss-Dev Modifications
+=====
+
+Some very weird reflaction magic was removed.
+
 Caldroid
 ========
 
@@ -15,11 +20,6 @@ Caldroid can be used with Android 2.2 and above. It is extracted from [official 
 <img src="https://raw.github.com/roomorama/Caldroid/master/screenshot/dark.png" width="270">
 
 If you found bugs specific to Caldroid, please open a new issue on Github. However for general Android questions (about layout, drawable, etc), you probably can find more information on StackOverflow.
-
-Modifications
-=====
-
-Some very weird reflaction magic was removed.
 
 Setup
 =====
